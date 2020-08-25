@@ -1,0 +1,3 @@
+TRUNCATE mantis_user_mantis;
+TRUNCATE mantis_email_mantis;
+TRUNCATE mantis_project_mantis;
